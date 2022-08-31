@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidkabs
 - 👀 I’m interested in technology, gaming and app development
-- 🌱 I’m currently doing a bachelor in system engineering and it is my last year
+- 🌱 Newly graduated in Computer Science, System Engineering Bachelor
 - 💞️ I’m looking to collaborate on any projects related to app and websites development including the design part
 - 📫 How to reach me dkabangu14@gmail.com
 
